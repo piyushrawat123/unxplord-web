@@ -1,0 +1,22 @@
+{
+  "name": "unxplord-web",
+  "version": "1.0.0",
+  "description": "unxplord website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piyushrawat123"
+  },
+  "keywords": [
+    "unxplord"
+  ],
+  "author": "Piyush Rawat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
